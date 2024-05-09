@@ -5,9 +5,9 @@ I'm a lifelong learner and a passionate teacher, eager to exchange knowledge wit
 
 
 ### My Professional Persona
-🌐 Networking Wizard: Proficient networking operating systems and protocls, with hands-on experience in cyber security.
-🚀 Current Project:  Debugging and developing new features in SONiC NOS. This journey has enriched my understanding and expertise in the network domain.
-💻 Tech Stack: My toolset includes C/C++, Python, and Bash, leveraging these to build robust networking solutions.
+- 🌐 Networking Wizard: Proficient networking operating systems and protocls, with hands-on experience in cyber security.
+- 🚀 Current Project:  Debugging and developing new features in [SONiC NOS](https://github.com/sonic-net). This journey has enriched my understanding and expertise in the network domain.
+- 💻 Tech Stack: My toolset includes C/C++, Python, and Bash, leveraging these to build robust networking solutions.
 
 ### What I'm Up To
 
@@ -39,7 +39,12 @@ I'm a lifelong learner and a passionate teacher, eager to exchange knowledge wit
 
 ### How to Reach Me
 
-- 📫 mazora@marvell.com
+- 📫 [mazora@marvell.com](mailto:mazora@marvell.com)
 
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazor&show_icons=true&theme=radical)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub followers](https://img.shields.io/github/followers/amazor?label=Follow&style=social)
+
+
